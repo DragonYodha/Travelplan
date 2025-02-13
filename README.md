@@ -1,2 +1,1 @@
-# Travelplan
-an app that plans travel
+# travel-itinerary-generator
